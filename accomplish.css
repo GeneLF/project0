@@ -1,0 +1,12 @@
+  .abouthead {
+    font-size: 30px;
+    font-stretch: ultra-expanded;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    padding-bottom: 5%;
+  }
+
+.tabletext {
+    color: black;
+}
